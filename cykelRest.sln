@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cykelRest", "cykelRest\cykelRest.csproj", "{ED68506C-9483-4D2B-AACB-0D9FD8B572A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cykelLib", "cykelLib\cykelLib.csproj", "{04CBC376-2CC6-4352-A7DF-628A2150FD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED68506C-9483-4D2B-AACB-0D9FD8B572A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED68506C-9483-4D2B-AACB-0D9FD8B572A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED68506C-9483-4D2B-AACB-0D9FD8B572A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED68506C-9483-4D2B-AACB-0D9FD8B572A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CBC376-2CC6-4352-A7DF-628A2150FD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CBC376-2CC6-4352-A7DF-628A2150FD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CBC376-2CC6-4352-A7DF-628A2150FD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CBC376-2CC6-4352-A7DF-628A2150FD61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A62D51D-0215-4503-BF32-62D64FB23E7E}
+	EndGlobalSection
+EndGlobal
